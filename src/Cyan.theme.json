@@ -255,7 +255,7 @@
         "hoverInactiveBackground": "#b9bdc999"
       },
       "Button": {
-        "selectedBackground": "#C3C6C9",
+        "selectedBackground": "#D3F0F4",
         "hoverBackground": "#C3C6C9"
       }
     },
